@@ -20,7 +20,7 @@ Tokenomics is the study of how cryptocurrencies work within the broader ecosyste
 
 THIRM TOKEN is inflated by the rate of 0.1% every 10 days (3.7155% per year).
 
-Optional - Not neccessary needed to be infalted !
+Optional - Not neccessary needed to be inflated !
 
 ## Deflation 
 
