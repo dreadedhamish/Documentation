@@ -1,8 +1,7 @@
 ---
-title: Introduction
-description: 'THIRM is a protocol that allows users to access cryptocurrency assets across multiple blockchains.'
+title: Index
 position: 1
-category: ''
+category: 'Introduction'
 ---
 
 <img src="/xthirm.png"  width="1280" height="640" alt=""/>
